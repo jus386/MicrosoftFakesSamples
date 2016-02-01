@@ -1,0 +1,1283 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMvcApplication.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:MyMvcApplication.Controllers.Fakes.ShimAccountController">
+            <summary>Shim type of MyMvcApplication.Controllers.AccountController</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.#ctor(MyMvcApplication.Controllers.AccountController)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Controllers.Fakes.ShimAccountController.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountController.AllInstances.LoginLoginViewModelString">
+            <summary>Sets the shim of AccountController.Login(LoginViewModel model, String returnUrl)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountController.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.IActionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.IAuthorizationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.IController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.IExceptionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.IResultFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.Async.IAsyncController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.Async.IAsyncManagerContainer)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.Web.Mvc.Filters.IAuthenticationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountController.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountController.Constructor">
+            <summary>Sets the shim of AccountController.AccountController()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountController.LoginLoginViewModelString">
+            <summary>Sets the shim of AccountController.Login(LoginViewModel model, String returnUrl)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Controllers.Fakes.ShimAccountDController">
+            <summary>Shim type of MyMvcApplication.Controllers.AccountDController</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.#ctor(MyMvcApplication.Controllers.AccountDController)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Controllers.Fakes.ShimAccountDController.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountDController.AllInstances.LoginLoginViewModelString">
+            <summary>Sets the shim of AccountDController.Login(LoginViewModel model, String returnUrl)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.IActionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.IAuthorizationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.IController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.IExceptionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.IResultFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.Async.IAsyncController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.Async.IAsyncManagerContainer)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.Web.Mvc.Filters.IAuthenticationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountDController.Constructor">
+            <summary>Sets the shim of AccountDController.AccountDController()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountDController.ConstructorIAuthProvider">
+            <summary>Sets the shim of AccountDController.AccountDController(IAuthProvider authProvider)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.ShimAccountDController.LoginLoginViewModelString">
+            <summary>Sets the shim of AccountDController.Login(LoginViewModel model, String returnUrl)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Controllers.Fakes.StubAccountController">
+            <summary>Stub type of MyMvcApplication.Controllers.AccountController</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.BeginExecute(System.Web.Routing.RequestContext,System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.BeginExecuteCore(System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.BeginExecuteCoreAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.BeginExecuteRequestContextAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountController.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.CreateActionInvoker">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.CreateActionInvoker01">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.CreateTempDataProvider">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.CreateTempDataProvider01">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountController.DisableAsyncSupport">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.DisableAsyncSupportGet">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.Dispose(System.Boolean)">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.DisposeBoolean">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.EndExecute(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.EndExecuteCore(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.EndExecuteCoreIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.EndExecuteIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.Execute(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.ExecuteCore">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.ExecuteCore01">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.ExecuteRequestContext">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.File(System.Byte[],System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.File(System.String,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.File(System.IO.Stream,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.FileByteArrayStringString">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.FileStreamStringString">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.FileStringStringString">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.HandleUnknownAction(System.String)">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.HandleUnknownActionString">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.HttpNotFound(System.String)">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.HttpNotFoundString">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.Initialize(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.InitializeRequestContext">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.InitializeStub">
+            <summary>Initializes a new instance of type StubAccountController</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountController.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountController.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.JavaScript(System.String)">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.JavaScriptString">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnActionExecuted(System.Web.Mvc.ActionExecutedContext)">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnActionExecutedActionExecutedContext">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnActionExecuting(System.Web.Mvc.ActionExecutingContext)">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnActionExecutingActionExecutingContext">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthentication(System.Web.Mvc.Filters.AuthenticationContext)">
+            <summary>Sets the stub of Controller.OnAuthentication(AuthenticationContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthenticationAuthenticationContext">
+            <summary>Sets the stub of Controller.OnAuthentication(AuthenticationContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthenticationChallenge(System.Web.Mvc.Filters.AuthenticationChallengeContext)">
+            <summary>Sets the stub of Controller.OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthenticationChallengeAuthenticationChallengeContext">
+            <summary>Sets the stub of Controller.OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthorization(System.Web.Mvc.AuthorizationContext)">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnAuthorizationAuthorizationContext">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnException(System.Web.Mvc.ExceptionContext)">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnExceptionExceptionContext">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnResultExecuted(System.Web.Mvc.ResultExecutedContext)">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnResultExecutedResultExecutedContext">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.OnResultExecuting(System.Web.Mvc.ResultExecutingContext)">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.OnResultExecutingResultExecutingContext">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.PartialView(System.String,System.Object)">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.PartialViewStringObject">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.Redirect(System.String)">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectPermanent(System.String)">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectPermanentString">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectString">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToAction(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToActionPermanent(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToActionPermanentStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToActionStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToRoute(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToRoutePermanent(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToRoutePermanentStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.RedirectToRouteStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.View(System.Web.Mvc.IView,System.Object)">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountController.View(System.String,System.String,System.Object)">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.ViewIViewObject">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountController.ViewStringStringObject">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Controllers.Fakes.StubAccountDController">
+            <summary>Stub type of MyMvcApplication.Controllers.AccountDController</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.#ctor(MyMvcApplication.Models.IAuthProvider)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.BeginExecute(System.Web.Routing.RequestContext,System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.BeginExecuteCore(System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.BeginExecuteCoreAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.BeginExecuteRequestContextAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountDController.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.CreateActionInvoker">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.CreateActionInvoker01">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.CreateTempDataProvider">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.CreateTempDataProvider01">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountDController.DisableAsyncSupport">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.DisableAsyncSupportGet">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.Dispose(System.Boolean)">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.DisposeBoolean">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.EndExecute(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.EndExecuteCore(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.EndExecuteCoreIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.EndExecuteIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.Execute(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.ExecuteCore">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.ExecuteCore01">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.ExecuteRequestContext">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.File(System.Byte[],System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.File(System.String,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.File(System.IO.Stream,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.FileByteArrayStringString">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.FileStreamStringString">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.FileStringStringString">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.HandleUnknownAction(System.String)">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.HandleUnknownActionString">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.HttpNotFound(System.String)">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.HttpNotFoundString">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.Initialize(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.InitializeRequestContext">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.InitializeStub">
+            <summary>Initializes a new instance of type StubAccountDController</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountDController.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Controllers.Fakes.StubAccountDController.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.JavaScript(System.String)">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.JavaScriptString">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnActionExecuted(System.Web.Mvc.ActionExecutedContext)">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnActionExecutedActionExecutedContext">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnActionExecuting(System.Web.Mvc.ActionExecutingContext)">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnActionExecutingActionExecutingContext">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthentication(System.Web.Mvc.Filters.AuthenticationContext)">
+            <summary>Sets the stub of Controller.OnAuthentication(AuthenticationContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthenticationAuthenticationContext">
+            <summary>Sets the stub of Controller.OnAuthentication(AuthenticationContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthenticationChallenge(System.Web.Mvc.Filters.AuthenticationChallengeContext)">
+            <summary>Sets the stub of Controller.OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthenticationChallengeAuthenticationChallengeContext">
+            <summary>Sets the stub of Controller.OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthorization(System.Web.Mvc.AuthorizationContext)">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnAuthorizationAuthorizationContext">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnException(System.Web.Mvc.ExceptionContext)">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnExceptionExceptionContext">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnResultExecuted(System.Web.Mvc.ResultExecutedContext)">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnResultExecutedResultExecutedContext">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnResultExecuting(System.Web.Mvc.ResultExecutingContext)">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.OnResultExecutingResultExecutingContext">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.PartialView(System.String,System.Object)">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.PartialViewStringObject">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.Redirect(System.String)">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectPermanent(System.String)">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectPermanentString">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectString">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToAction(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToActionPermanent(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToActionPermanentStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToActionStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToRoute(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToRoutePermanent(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToRoutePermanentStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.RedirectToRouteStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.View(System.Web.Mvc.IView,System.Object)">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Controllers.Fakes.StubAccountDController.View(System.String,System.String,System.Object)">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.ViewIViewObject">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Controllers.Fakes.StubAccountDController.ViewStringStringObject">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimBundleConfig">
+            <summary>Shim type of MyMvcApplication.BundleConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimBundleConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimBundleConfig.#ctor(MyMvcApplication.BundleConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimBundleConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimBundleConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimBundleConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimBundleConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimBundleConfig.Constructor">
+            <summary>Sets the shim of BundleConfig.BundleConfig()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimBundleConfig.RegisterBundlesBundleCollection">
+            <summary>Sets the shim of BundleConfig.RegisterBundles(BundleCollection bundles)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimFilterConfig">
+            <summary>Shim type of MyMvcApplication.FilterConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimFilterConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimFilterConfig.#ctor(MyMvcApplication.FilterConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimFilterConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimFilterConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimFilterConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimFilterConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimFilterConfig.Constructor">
+            <summary>Sets the shim of FilterConfig.FilterConfig()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimFilterConfig.RegisterGlobalFiltersGlobalFilterCollection">
+            <summary>Sets the shim of FilterConfig.RegisterGlobalFilters(GlobalFilterCollection filters)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimMvcApplication">
+            <summary>Shim type of MyMvcApplication.MvcApplication</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.#ctor(MyMvcApplication.MvcApplication)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimMvcApplication.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimMvcApplication.AllInstances.Application_Start">
+            <summary>Sets the shim of MvcApplication.Application_Start()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimMvcApplication.Application_Start">
+            <summary>Sets the shim of MvcApplication.Application_Start()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimMvcApplication.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.Bind(System.Web.IHttpAsyncHandler)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.Bind(System.Web.IHttpHandler)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimMvcApplication.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimMvcApplication.Constructor">
+            <summary>Sets the shim of MvcApplication.MvcApplication()</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimRouteConfig">
+            <summary>Shim type of MyMvcApplication.RouteConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimRouteConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimRouteConfig.#ctor(MyMvcApplication.RouteConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.ShimRouteConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimRouteConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.ShimRouteConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimRouteConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimRouteConfig.Constructor">
+            <summary>Sets the shim of RouteConfig.RouteConfig()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.ShimRouteConfig.RegisterRoutesRouteCollection">
+            <summary>Sets the shim of RouteConfig.RegisterRoutes(RouteCollection routes)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.StubBundleConfig">
+            <summary>Stub type of MyMvcApplication.BundleConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubBundleConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubBundleConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubBundleConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubBundleConfig</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubBundleConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubBundleConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.StubFilterConfig">
+            <summary>Stub type of MyMvcApplication.FilterConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubFilterConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubFilterConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubFilterConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubFilterConfig</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubFilterConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubFilterConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.StubMvcApplication">
+            <summary>Stub type of MyMvcApplication.MvcApplication</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubMvcApplication.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.Dispose">
+            <summary>Sets the stub of HttpApplication.Dispose()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Fakes.StubMvcApplication.Dispose01">
+            <summary>Sets the stub of HttpApplication.Dispose()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.GetOutputCacheProviderName(System.Web.HttpContext)">
+            <summary>Sets the stub of HttpApplication.GetOutputCacheProviderName(HttpContext context)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Fakes.StubMvcApplication.GetOutputCacheProviderNameHttpContext">
+            <summary>Sets the stub of HttpApplication.GetOutputCacheProviderName(HttpContext context)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.GetVaryByCustomString(System.Web.HttpContext,System.String)">
+            <summary>Sets the stub of HttpApplication.GetVaryByCustomString(HttpContext context, String custom)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Fakes.StubMvcApplication.GetVaryByCustomStringHttpContextString">
+            <summary>Sets the stub of HttpApplication.GetVaryByCustomString(HttpContext context, String custom)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.Init">
+            <summary>Sets the stub of HttpApplication.Init()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Fakes.StubMvcApplication.Init01">
+            <summary>Sets the stub of HttpApplication.Init()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubMvcApplication.InitializeStub">
+            <summary>Initializes a new instance of type StubMvcApplication</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubMvcApplication.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubMvcApplication.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:MyMvcApplication.Fakes.StubRouteConfig">
+            <summary>Stub type of MyMvcApplication.RouteConfig</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubRouteConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubRouteConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Fakes.StubRouteConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubRouteConfig</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubRouteConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Fakes.StubRouteConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimApplicationDbContext">
+            <summary>Shim type of MyMvcApplication.Models.ApplicationDbContext</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.#ctor(MyMvcApplication.Models.ApplicationDbContext)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.Bind(System.Data.Entity.Infrastructure.IObjectContextAdapter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.Constructor">
+            <summary>Sets the shim of ApplicationDbContext.ApplicationDbContext()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimApplicationDbContext.Create">
+            <summary>Sets the shim of ApplicationDbContext.Create()</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimApplicationUser">
+            <summary>Shim type of MyMvcApplication.Models.ApplicationUser</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.#ctor(MyMvcApplication.Models.ApplicationUser)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimApplicationUser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimApplicationUser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.Bind(Microsoft.AspNet.Identity.IUser)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimApplicationUser.Bind(Microsoft.AspNet.Identity.IUser{System.String})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimApplicationUser.Constructor">
+            <summary>Sets the shim of ApplicationUser.ApplicationUser()</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimLoginViewModel">
+            <summary>Shim type of MyMvcApplication.Models.LoginViewModel</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimLoginViewModel.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimLoginViewModel.#ctor(MyMvcApplication.Models.LoginViewModel)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.EmailGet">
+            <summary>Sets the shim of LoginViewModel.get_Email()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.EmailSetString">
+            <summary>Sets the shim of LoginViewModel.set_Email(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.PasswordGet">
+            <summary>Sets the shim of LoginViewModel.get_Password()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.PasswordSetString">
+            <summary>Sets the shim of LoginViewModel.set_Password(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.RememberMeGet">
+            <summary>Sets the shim of LoginViewModel.get_RememberMe()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.AllInstances.RememberMeSetBoolean">
+            <summary>Sets the shim of LoginViewModel.set_RememberMe(Boolean value)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimLoginViewModel.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimLoginViewModel.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.Constructor">
+            <summary>Sets the shim of LoginViewModel.LoginViewModel()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.EmailGet">
+            <summary>Sets the shim of LoginViewModel.get_Email()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.EmailSetString">
+            <summary>Sets the shim of LoginViewModel.set_Email(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.PasswordGet">
+            <summary>Sets the shim of LoginViewModel.get_Password()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.PasswordSetString">
+            <summary>Sets the shim of LoginViewModel.set_Password(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.RememberMeGet">
+            <summary>Sets the shim of LoginViewModel.get_RememberMe()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimLoginViewModel.RememberMeSetBoolean">
+            <summary>Sets the shim of LoginViewModel.set_RememberMe(Boolean value)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimWebAuthProvider">
+            <summary>Shim type of MyMvcApplication.Models.WebAuthProvider</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.#ctor(MyMvcApplication.Models.WebAuthProvider)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.AllInstances.SetAuthCookieStringBoolean">
+            <summary>Sets the shim of WebAuthProvider.SetAuthCookie(String email, Boolean rememberMe)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.AllInstances.ValidateUserStringString">
+            <summary>Sets the shim of WebAuthProvider.ValidateUser(String email, String password)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.Bind(MyMvcApplication.Models.IAuthProvider)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.Constructor">
+            <summary>Sets the shim of WebAuthProvider.WebAuthProvider()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.SetAuthCookieStringBoolean">
+            <summary>Sets the shim of WebAuthProvider.SetAuthCookie(String email, Boolean rememberMe)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.ShimWebAuthProvider.ValidateUserStringString">
+            <summary>Sets the shim of WebAuthProvider.ValidateUser(String email, String password)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.StubApplicationDbContext">
+            <summary>Stub type of MyMvcApplication.Models.ApplicationDbContext</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.AttachBackingFieldToRoles">
+            <summary>Attaches delegates to emulate StubApplicationDbContext.Roles as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.AttachBackingFieldToUsers">
+            <summary>Attaches delegates to emulate StubApplicationDbContext.Users as a property with a backing field.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationDbContext.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Dispose(System.Boolean)">
+            <summary>Sets the stub of DbContext.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.DisposeBoolean">
+            <summary>Sets the stub of DbContext.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Equals(System.Object)">
+            <summary>Sets the stub of DbContext.Equals(Object obj)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.EqualsObject">
+            <summary>Sets the stub of DbContext.Equals(Object obj)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.GetHashCode">
+            <summary>Sets the stub of DbContext.GetHashCode()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.GetHashCode01">
+            <summary>Sets the stub of DbContext.GetHashCode()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.InitializeStub">
+            <summary>Initializes a new instance of type StubApplicationDbContext</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationDbContext.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationDbContext.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>Sets the stub of IdentityDbContext`6.OnModelCreating(DbModelBuilder modelBuilder)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.OnModelCreatingDbModelBuilder">
+            <summary>Sets the stub of IdentityDbContext`6.OnModelCreating(DbModelBuilder modelBuilder)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Roles">
+            <summary>Sets the stub of IdentityDbContext`6.get_Roles()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.RolesGet">
+            <summary>Sets the stub of IdentityDbContext`6.get_Roles()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.RolesSetIDbSetOfIdentityRole">
+            <summary>Sets the stub of IdentityDbContext`6.set_Roles(IDbSet`1&lt;!1&gt; value)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChanges">
+            <summary>Sets the stub of DbContext.SaveChanges()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChanges01">
+            <summary>Sets the stub of DbContext.SaveChanges()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChangesAsync">
+            <summary>Sets the stub of DbContext.SaveChangesAsync()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChangesAsync(System.Threading.CancellationToken)">
+            <summary>Sets the stub of DbContext.SaveChangesAsync(CancellationToken cancellationToken)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChangesAsync01">
+            <summary>Sets the stub of DbContext.SaveChangesAsync()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SaveChangesAsyncCancellationToken">
+            <summary>Sets the stub of DbContext.SaveChangesAsync(CancellationToken cancellationToken)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Set(System.Type)">
+            <summary>Sets the stub of DbContext.Set(Type entityType)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Set``1">
+            <summary>Sets the stub of DbContext.Set()</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SetOf1``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.Entity.DbSet{``0}})">
+            <summary>Sets stubs of Set()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.SetType">
+            <summary>Sets the stub of DbContext.Set(Type entityType)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ShouldValidateEntity(System.Data.Entity.Infrastructure.DbEntityEntry)">
+            <summary>Sets the stub of DbContext.ShouldValidateEntity(DbEntityEntry entityEntry)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ShouldValidateEntityDbEntityEntry">
+            <summary>Sets the stub of DbContext.ShouldValidateEntity(DbEntityEntry entityEntry)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ToString">
+            <summary>Sets the stub of DbContext.ToString()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ToString01">
+            <summary>Sets the stub of DbContext.ToString()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationDbContext.Users">
+            <summary>Sets the stub of IdentityDbContext`6.get_Users()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.UsersGet">
+            <summary>Sets the stub of IdentityDbContext`6.get_Users()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.UsersSetIDbSetOfApplicationUser">
+            <summary>Sets the stub of IdentityDbContext`6.set_Users(IDbSet`1&lt;!0&gt; value)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ValidateEntity(System.Data.Entity.Infrastructure.DbEntityEntry,System.Collections.Generic.IDictionary{System.Object,System.Object})">
+            <summary>Sets the stub of IdentityDbContext`6.ValidateEntity(DbEntityEntry entityEntry, IDictionary`2&lt;Object,Object&gt; items)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationDbContext.ValidateEntityDbEntityEntryIDictionaryOfObjectObject">
+            <summary>Sets the stub of IdentityDbContext`6.ValidateEntity(DbEntityEntry entityEntry, IDictionary`2&lt;Object,Object&gt; items)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.StubApplicationUser">
+            <summary>Stub type of MyMvcApplication.Models.ApplicationUser</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.AccessFailedCount">
+            <summary>Sets the stub of IdentityUser`4.get_AccessFailedCount()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.AccessFailedCountGet">
+            <summary>Sets the stub of IdentityUser`4.get_AccessFailedCount()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.AccessFailedCountSetInt32">
+            <summary>Sets the stub of IdentityUser`4.set_AccessFailedCount(Int32 value)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToAccessFailedCount">
+            <summary>Attaches delegates to emulate StubApplicationUser.AccessFailedCount as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToEmail">
+            <summary>Attaches delegates to emulate StubApplicationUser.Email as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToEmailConfirmed">
+            <summary>Attaches delegates to emulate StubApplicationUser.EmailConfirmed as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToId">
+            <summary>Attaches delegates to emulate StubApplicationUser.Id as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToLockoutEnabled">
+            <summary>Attaches delegates to emulate StubApplicationUser.LockoutEnabled as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToLockoutEndDateUtc">
+            <summary>Attaches delegates to emulate StubApplicationUser.LockoutEndDateUtc as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToPasswordHash">
+            <summary>Attaches delegates to emulate StubApplicationUser.PasswordHash as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToPhoneNumber">
+            <summary>Attaches delegates to emulate StubApplicationUser.PhoneNumber as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToPhoneNumberConfirmed">
+            <summary>Attaches delegates to emulate StubApplicationUser.PhoneNumberConfirmed as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToSecurityStamp">
+            <summary>Attaches delegates to emulate StubApplicationUser.SecurityStamp as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToTwoFactorEnabled">
+            <summary>Attaches delegates to emulate StubApplicationUser.TwoFactorEnabled as a property with a backing field.</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.AttachBackingFieldToUserName">
+            <summary>Attaches delegates to emulate StubApplicationUser.UserName as a property with a backing field.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.Email">
+            <summary>Sets the stub of IdentityUser`4.get_Email()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.EmailConfirmed">
+            <summary>Sets the stub of IdentityUser`4.get_EmailConfirmed()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.EmailConfirmedGet">
+            <summary>Sets the stub of IdentityUser`4.get_EmailConfirmed()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.EmailConfirmedSetBoolean">
+            <summary>Sets the stub of IdentityUser`4.set_EmailConfirmed(Boolean value)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.EmailGet">
+            <summary>Sets the stub of IdentityUser`4.get_Email()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.EmailSetString">
+            <summary>Sets the stub of IdentityUser`4.set_Email(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.Id">
+            <summary>Sets the stub of IdentityUser`4.get_Id()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.IdGet">
+            <summary>Sets the stub of IdentityUser`4.get_Id()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.IdSetString">
+            <summary>Sets the stub of IdentityUser`4.set_Id(!0 value)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubApplicationUser.InitializeStub">
+            <summary>Initializes a new instance of type StubApplicationUser</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEnabled">
+            <summary>Sets the stub of IdentityUser`4.get_LockoutEnabled()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEnabledGet">
+            <summary>Sets the stub of IdentityUser`4.get_LockoutEnabled()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEnabledSetBoolean">
+            <summary>Sets the stub of IdentityUser`4.set_LockoutEnabled(Boolean value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEndDateUtc">
+            <summary>Sets the stub of IdentityUser`4.get_LockoutEndDateUtc()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEndDateUtcGet">
+            <summary>Sets the stub of IdentityUser`4.get_LockoutEndDateUtc()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.LockoutEndDateUtcSetNullableOfDateTime">
+            <summary>Sets the stub of IdentityUser`4.set_LockoutEndDateUtc(Nullable`1&lt;DateTime&gt; value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.PasswordHash">
+            <summary>Sets the stub of IdentityUser`4.get_PasswordHash()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PasswordHashGet">
+            <summary>Sets the stub of IdentityUser`4.get_PasswordHash()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PasswordHashSetString">
+            <summary>Sets the stub of IdentityUser`4.set_PasswordHash(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumber">
+            <summary>Sets the stub of IdentityUser`4.get_PhoneNumber()</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumberConfirmed">
+            <summary>Sets the stub of IdentityUser`4.get_PhoneNumberConfirmed()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumberConfirmedGet">
+            <summary>Sets the stub of IdentityUser`4.get_PhoneNumberConfirmed()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumberConfirmedSetBoolean">
+            <summary>Sets the stub of IdentityUser`4.set_PhoneNumberConfirmed(Boolean value)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumberGet">
+            <summary>Sets the stub of IdentityUser`4.get_PhoneNumber()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.PhoneNumberSetString">
+            <summary>Sets the stub of IdentityUser`4.set_PhoneNumber(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.SecurityStamp">
+            <summary>Sets the stub of IdentityUser`4.get_SecurityStamp()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.SecurityStampGet">
+            <summary>Sets the stub of IdentityUser`4.get_SecurityStamp()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.SecurityStampSetString">
+            <summary>Sets the stub of IdentityUser`4.set_SecurityStamp(String value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.TwoFactorEnabled">
+            <summary>Sets the stub of IdentityUser`4.get_TwoFactorEnabled()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.TwoFactorEnabledGet">
+            <summary>Sets the stub of IdentityUser`4.get_TwoFactorEnabled()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.TwoFactorEnabledSetBoolean">
+            <summary>Sets the stub of IdentityUser`4.set_TwoFactorEnabled(Boolean value)</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubApplicationUser.UserName">
+            <summary>Sets the stub of IdentityUser`4.get_UserName()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.UserNameGet">
+            <summary>Sets the stub of IdentityUser`4.get_UserName()</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubApplicationUser.UserNameSetString">
+            <summary>Sets the stub of IdentityUser`4.set_UserName(String value)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.StubIAuthProvider">
+            <summary>Stub type of MyMvcApplication.Models.IAuthProvider</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubIAuthProvider.#ctor">
+            <summary>Initializes a new instance of type StubIAuthProvider</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubIAuthProvider.MyMvcApplication#Models#IAuthProvider#SetAuthCookie(System.String,System.Boolean)">
+            <summary>Sets the stub of IAuthProvider.SetAuthCookie(String email, Boolean rememberMe)</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubIAuthProvider.MyMvcApplication#Models#IAuthProvider#ValidateUser(System.String,System.String)">
+            <summary>Sets the stub of IAuthProvider.ValidateUser(String email, String password)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubIAuthProvider.SetAuthCookieStringBoolean">
+            <summary>Sets the stub of IAuthProvider.SetAuthCookie(String email, Boolean rememberMe)</summary>
+        </member>
+        <member name="F:MyMvcApplication.Models.Fakes.StubIAuthProvider.ValidateUserStringString">
+            <summary>Sets the stub of IAuthProvider.ValidateUser(String email, String password)</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.StubLoginViewModel">
+            <summary>Stub type of MyMvcApplication.Models.LoginViewModel</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubLoginViewModel.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubLoginViewModel.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubLoginViewModel.InitializeStub">
+            <summary>Initializes a new instance of type StubLoginViewModel</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubLoginViewModel.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubLoginViewModel.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:MyMvcApplication.Models.Fakes.StubWebAuthProvider">
+            <summary>Stub type of MyMvcApplication.Models.WebAuthProvider</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubWebAuthProvider.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubWebAuthProvider.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:MyMvcApplication.Models.Fakes.StubWebAuthProvider.InitializeStub">
+            <summary>Initializes a new instance of type StubWebAuthProvider</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubWebAuthProvider.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MyMvcApplication.Models.Fakes.StubWebAuthProvider.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

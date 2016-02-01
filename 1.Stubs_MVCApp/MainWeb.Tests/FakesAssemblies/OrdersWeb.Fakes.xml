@@ -1,0 +1,1244 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrdersWeb.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:OrdersWeb.Controllers.Fakes.ShimOrderController">
+            <summary>Shim type of OrdersWeb.Controllers.OrderController</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.#ctor(OrdersWeb.Controllers.OrderController)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Controllers.Fakes.ShimOrderController.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderController.AllInstances.OrderLinesInt32">
+            <summary>Sets the shim of OrderController.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderController.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.IActionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.IAuthorizationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.IController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.IExceptionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.IResultFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.Async.IAsyncController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.Web.Mvc.Async.IAsyncManagerContainer)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderController.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderController.Constructor">
+            <summary>Sets the shim of OrderController.OrderController()</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderController.OrderLinesInt32">
+            <summary>Sets the shim of OrderController.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="T:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo">
+            <summary>Shim type of OrdersWeb.Controllers.OrderControllerRepo</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.#ctor(OrdersWeb.Controllers.OrderControllerRepo)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.AllInstances.OrderLinesInt32">
+            <summary>Sets the shim of OrderControllerRepo.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.IActionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.IAuthorizationFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.IController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.IExceptionFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.IResultFilter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.Async.IAsyncController)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.Web.Mvc.Async.IAsyncManagerContainer)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.Constructor">
+            <summary>Sets the shim of OrderControllerRepo.OrderControllerRepo()</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.ConstructorIOrderRepository">
+            <summary>Sets the shim of OrderControllerRepo.OrderControllerRepo(IOrderRepository repo)</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.ShimOrderControllerRepo.OrderLinesInt32">
+            <summary>Sets the shim of OrderControllerRepo.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="T:OrdersWeb.Controllers.Fakes.StubOrderController">
+            <summary>Stub type of OrdersWeb.Controllers.OrderController</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.BeginExecute(System.Web.Routing.RequestContext,System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.BeginExecuteCore(System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.BeginExecuteCoreAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.BeginExecuteRequestContextAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderController.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.CreateActionInvoker">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.CreateActionInvoker01">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.CreateTempDataProvider">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.CreateTempDataProvider01">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderController.DisableAsyncSupport">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.DisableAsyncSupportGet">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.Dispose(System.Boolean)">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.DisposeBoolean">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.EndExecute(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.EndExecuteCore(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.EndExecuteCoreIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.EndExecuteIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.Execute(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.ExecuteCore">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.ExecuteCore01">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.ExecuteRequestContext">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.File(System.Byte[],System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.File(System.String,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.File(System.IO.Stream,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.FileByteArrayStringString">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.FileStreamStringString">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.FileStringStringString">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.HandleUnknownAction(System.String)">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.HandleUnknownActionString">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.HttpNotFound(System.String)">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.HttpNotFoundString">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.Initialize(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.InitializeRequestContext">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderController</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderController.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderController.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.JavaScript(System.String)">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.JavaScriptString">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnActionExecuted(System.Web.Mvc.ActionExecutedContext)">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnActionExecutedActionExecutedContext">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnActionExecuting(System.Web.Mvc.ActionExecutingContext)">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnActionExecutingActionExecutingContext">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnAuthorization(System.Web.Mvc.AuthorizationContext)">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnAuthorizationAuthorizationContext">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnException(System.Web.Mvc.ExceptionContext)">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnExceptionExceptionContext">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnResultExecuted(System.Web.Mvc.ResultExecutedContext)">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnResultExecutedResultExecutedContext">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.OnResultExecuting(System.Web.Mvc.ResultExecutingContext)">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.OnResultExecutingResultExecutingContext">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.PartialView(System.String,System.Object)">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.PartialViewStringObject">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.Redirect(System.String)">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectPermanent(System.String)">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectPermanentString">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectString">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToAction(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToActionPermanent(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToActionPermanentStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToActionStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToRoute(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToRoutePermanent(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToRoutePermanentStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.RedirectToRouteStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.View(System.Web.Mvc.IView,System.Object)">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderController.View(System.String,System.String,System.Object)">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.ViewIViewObject">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderController.ViewStringStringObject">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="T:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo">
+            <summary>Stub type of OrdersWeb.Controllers.OrderControllerRepo</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.#ctor(OrdersWeb.Models.IOrderRepository)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.BeginExecute(System.Web.Routing.RequestContext,System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.BeginExecuteCore(System.AsyncCallback,System.Object)">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.BeginExecuteCoreAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecuteCore(AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.BeginExecuteRequestContextAsyncCallbackObject">
+            <summary>Sets the stub of Controller.BeginExecute(RequestContext requestContext, AsyncCallback callback, Object state)</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.CreateActionInvoker">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.CreateActionInvoker01">
+            <summary>Sets the stub of Controller.CreateActionInvoker()</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.CreateTempDataProvider">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.CreateTempDataProvider01">
+            <summary>Sets the stub of Controller.CreateTempDataProvider()</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.DisableAsyncSupport">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.DisableAsyncSupportGet">
+            <summary>Sets the stub of Controller.get_DisableAsyncSupport()</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.Dispose(System.Boolean)">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.DisposeBoolean">
+            <summary>Sets the stub of Controller.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.EndExecute(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.EndExecuteCore(System.IAsyncResult)">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.EndExecuteCoreIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecuteCore(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.EndExecuteIAsyncResult">
+            <summary>Sets the stub of Controller.EndExecute(IAsyncResult asyncResult)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.Execute(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.ExecuteCore">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.ExecuteCore01">
+            <summary>Sets the stub of Controller.ExecuteCore()</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.ExecuteRequestContext">
+            <summary>Sets the stub of ControllerBase.Execute(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.File(System.Byte[],System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.File(System.String,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.File(System.IO.Stream,System.String,System.String)">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.FileByteArrayStringString">
+            <summary>Sets the stub of Controller.File(Byte[] fileContents, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.FileStreamStringString">
+            <summary>Sets the stub of Controller.File(Stream fileStream, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.FileStringStringString">
+            <summary>Sets the stub of Controller.File(String fileName, String contentType, String fileDownloadName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.HandleUnknownAction(System.String)">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.HandleUnknownActionString">
+            <summary>Sets the stub of Controller.HandleUnknownAction(String actionName)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.HttpNotFound(System.String)">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.HttpNotFoundString">
+            <summary>Sets the stub of Controller.HttpNotFound(String statusDescription)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.Initialize(System.Web.Routing.RequestContext)">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.InitializeRequestContext">
+            <summary>Sets the stub of Controller.Initialize(RequestContext requestContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderControllerRepo</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.JavaScript(System.String)">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.JavaScriptString">
+            <summary>Sets the stub of Controller.JavaScript(String script)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnActionExecuted(System.Web.Mvc.ActionExecutedContext)">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnActionExecutedActionExecutedContext">
+            <summary>Sets the stub of Controller.OnActionExecuted(ActionExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnActionExecuting(System.Web.Mvc.ActionExecutingContext)">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnActionExecutingActionExecutingContext">
+            <summary>Sets the stub of Controller.OnActionExecuting(ActionExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnAuthorization(System.Web.Mvc.AuthorizationContext)">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnAuthorizationAuthorizationContext">
+            <summary>Sets the stub of Controller.OnAuthorization(AuthorizationContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnException(System.Web.Mvc.ExceptionContext)">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnExceptionExceptionContext">
+            <summary>Sets the stub of Controller.OnException(ExceptionContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnResultExecuted(System.Web.Mvc.ResultExecutedContext)">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnResultExecutedResultExecutedContext">
+            <summary>Sets the stub of Controller.OnResultExecuted(ResultExecutedContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnResultExecuting(System.Web.Mvc.ResultExecutingContext)">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.OnResultExecutingResultExecutingContext">
+            <summary>Sets the stub of Controller.OnResultExecuting(ResultExecutingContext filterContext)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.PartialView(System.String,System.Object)">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.PartialViewStringObject">
+            <summary>Sets the stub of Controller.PartialView(String viewName, Object model)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.Redirect(System.String)">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectPermanent(System.String)">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectPermanentString">
+            <summary>Sets the stub of Controller.RedirectPermanent(String url)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectString">
+            <summary>Sets the stub of Controller.Redirect(String url)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToAction(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToActionPermanent(System.String,System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToActionPermanentStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToActionPermanent(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToActionStringStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToAction(String actionName, String controllerName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToRoute(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToRoutePermanent(System.String,System.Web.Routing.RouteValueDictionary)">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToRoutePermanentStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoutePermanent(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.RedirectToRouteStringRouteValueDictionary">
+            <summary>Sets the stub of Controller.RedirectToRoute(String routeName, RouteValueDictionary routeValues)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.View(System.Web.Mvc.IView,System.Object)">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="M:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.View(System.String,System.String,System.Object)">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.ViewIViewObject">
+            <summary>Sets the stub of Controller.View(IView view, Object model)</summary>
+        </member>
+        <member name="F:OrdersWeb.Controllers.Fakes.StubOrderControllerRepo.ViewStringStringObject">
+            <summary>Sets the stub of Controller.View(String viewName, String masterName, Object model)</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimBundleConfig">
+            <summary>Shim type of OrdersWeb.MainWeb.BundleConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.#ctor(OrdersWeb.MainWeb.BundleConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.Constructor">
+            <summary>Sets the shim of BundleConfig.BundleConfig()</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimBundleConfig.RegisterBundlesBundleCollection">
+            <summary>Sets the shim of BundleConfig.RegisterBundles(BundleCollection bundles)</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimFilterConfig">
+            <summary>Shim type of OrdersWeb.MainWeb.FilterConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.#ctor(OrdersWeb.MainWeb.FilterConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.Constructor">
+            <summary>Sets the shim of FilterConfig.FilterConfig()</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimFilterConfig.RegisterGlobalFiltersGlobalFilterCollection">
+            <summary>Sets the shim of FilterConfig.RegisterGlobalFilters(GlobalFilterCollection filters)</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimMvcApplication">
+            <summary>Shim type of OrdersWeb.MainWeb.MvcApplication</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.#ctor(OrdersWeb.MainWeb.MvcApplication)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.AllInstances.Application_Start">
+            <summary>Sets the shim of MvcApplication.Application_Start()</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Application_Start">
+            <summary>Sets the shim of MvcApplication.Application_Start()</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Bind(System.Web.IHttpAsyncHandler)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Bind(System.Web.IHttpHandler)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimMvcApplication.Constructor">
+            <summary>Sets the shim of MvcApplication.MvcApplication()</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimRouteConfig">
+            <summary>Shim type of OrdersWeb.MainWeb.RouteConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.#ctor(OrdersWeb.MainWeb.RouteConfig)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.Constructor">
+            <summary>Sets the shim of RouteConfig.RouteConfig()</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimRouteConfig.RegisterRoutesRouteCollection">
+            <summary>Sets the shim of RouteConfig.RegisterRoutes(RouteCollection routes)</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig">
+            <summary>Shim type of OrdersWeb.MainWeb.WebApiConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.ShimWebApiConfig.RegisterHttpConfiguration">
+            <summary>Sets the shim of WebApiConfig.Register(HttpConfiguration config)</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.StubBundleConfig">
+            <summary>Stub type of OrdersWeb.MainWeb.BundleConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubBundleConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubBundleConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubBundleConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubBundleConfig</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubBundleConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubBundleConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.StubFilterConfig">
+            <summary>Stub type of OrdersWeb.MainWeb.FilterConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubFilterConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubFilterConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubFilterConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubFilterConfig</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubFilterConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubFilterConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.StubMvcApplication">
+            <summary>Stub type of OrdersWeb.MainWeb.MvcApplication</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubMvcApplication.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.Dispose">
+            <summary>Sets the stub of HttpApplication.Dispose()</summary>
+        </member>
+        <member name="F:OrdersWeb.MainWeb.Fakes.StubMvcApplication.Dispose01">
+            <summary>Sets the stub of HttpApplication.Dispose()</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.GetOutputCacheProviderName(System.Web.HttpContext)">
+            <summary>Sets the stub of HttpApplication.GetOutputCacheProviderName(HttpContext context)</summary>
+        </member>
+        <member name="F:OrdersWeb.MainWeb.Fakes.StubMvcApplication.GetOutputCacheProviderNameHttpContext">
+            <summary>Sets the stub of HttpApplication.GetOutputCacheProviderName(HttpContext context)</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.GetVaryByCustomString(System.Web.HttpContext,System.String)">
+            <summary>Sets the stub of HttpApplication.GetVaryByCustomString(HttpContext context, String custom)</summary>
+        </member>
+        <member name="F:OrdersWeb.MainWeb.Fakes.StubMvcApplication.GetVaryByCustomStringHttpContextString">
+            <summary>Sets the stub of HttpApplication.GetVaryByCustomString(HttpContext context, String custom)</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.Init">
+            <summary>Sets the stub of HttpApplication.Init()</summary>
+        </member>
+        <member name="F:OrdersWeb.MainWeb.Fakes.StubMvcApplication.Init01">
+            <summary>Sets the stub of HttpApplication.Init()</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubMvcApplication.InitializeStub">
+            <summary>Initializes a new instance of type StubMvcApplication</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubMvcApplication.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubMvcApplication.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.MainWeb.Fakes.StubRouteConfig">
+            <summary>Stub type of OrdersWeb.MainWeb.RouteConfig</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubRouteConfig.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubRouteConfig.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.MainWeb.Fakes.StubRouteConfig.InitializeStub">
+            <summary>Initializes a new instance of type StubRouteConfig</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubRouteConfig.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.MainWeb.Fakes.StubRouteConfig.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrder">
+            <summary>Shim type of OrdersWeb.Models.Order</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrder.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrder.#ctor(OrdersWeb.Models.Order)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrder.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.CustomerNameGet">
+            <summary>Sets the shim of Order.get_CustomerName()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.CustomerNameSetString">
+            <summary>Sets the shim of Order.set_CustomerName(String value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.IdGet">
+            <summary>Sets the shim of Order.get_Id()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.IdSetInt32">
+            <summary>Sets the shim of Order.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.TaxRateGet">
+            <summary>Sets the shim of Order.get_TaxRate()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.AllInstances.TaxRateSetDouble">
+            <summary>Sets the shim of Order.set_TaxRate(Double value)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrder.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrder.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.Constructor">
+            <summary>Sets the shim of Order.Order()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.CustomerNameGet">
+            <summary>Sets the shim of Order.get_CustomerName()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.CustomerNameSetString">
+            <summary>Sets the shim of Order.set_CustomerName(String value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.IdGet">
+            <summary>Sets the shim of Order.get_Id()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.IdSetInt32">
+            <summary>Sets the shim of Order.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.TaxRateGet">
+            <summary>Sets the shim of Order.get_TaxRate()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrder.TaxRateSetDouble">
+            <summary>Sets the shim of Order.set_TaxRate(Double value)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderDbContext">
+            <summary>Shim type of OrdersWeb.Models.OrderDbContext</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.#ctor(OrdersWeb.Models.OrderDbContext)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderDbContext.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.AllInstances.OrdersGet">
+            <summary>Sets the shim of OrderDbContext.get_Orders()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.AllInstances.OrdersLinesGet">
+            <summary>Sets the shim of OrderDbContext.get_OrdersLines()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.AllInstances.OrdersLinesSetDbSetOfOrderLines">
+            <summary>Sets the shim of OrderDbContext.set_OrdersLines(DbSet`1&lt;OrderLines&gt; value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.AllInstances.OrdersSetDbSetOfOrder">
+            <summary>Sets the shim of OrderDbContext.set_Orders(DbSet`1&lt;Order&gt; value)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.Bind(System.Data.Entity.Infrastructure.IObjectContextAdapter)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderDbContext.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.Constructor">
+            <summary>Sets the shim of OrderDbContext.OrderDbContext()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.OrdersGet">
+            <summary>Sets the shim of OrderDbContext.get_Orders()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.OrdersLinesGet">
+            <summary>Sets the shim of OrderDbContext.get_OrdersLines()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.OrdersLinesSetDbSetOfOrderLines">
+            <summary>Sets the shim of OrderDbContext.set_OrdersLines(DbSet`1&lt;OrderLines&gt; value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderDbContext.OrdersSetDbSetOfOrder">
+            <summary>Sets the shim of OrderDbContext.set_Orders(DbSet`1&lt;Order&gt; value)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderLines">
+            <summary>Shim type of OrdersWeb.Models.OrderLines</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderLines.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderLines.#ctor(OrdersWeb.Models.OrderLines)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.IdGet">
+            <summary>Sets the shim of OrderLines.get_Id()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.IdSetInt32">
+            <summary>Sets the shim of OrderLines.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.IsTaxableGet">
+            <summary>Sets the shim of OrderLines.get_IsTaxable()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.IsTaxableSetBoolean">
+            <summary>Sets the shim of OrderLines.set_IsTaxable(Boolean value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.OrderIdGet">
+            <summary>Sets the shim of OrderLines.get_OrderId()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.OrderIdSetInt32">
+            <summary>Sets the shim of OrderLines.set_OrderId(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.ProductNameGet">
+            <summary>Sets the shim of OrderLines.get_ProductName()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.ProductNameSetString">
+            <summary>Sets the shim of OrderLines.set_ProductName(String value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.QuantityGet">
+            <summary>Sets the shim of OrderLines.get_Quantity()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.QuantitySetInt32">
+            <summary>Sets the shim of OrderLines.set_Quantity(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.UnitCostGet">
+            <summary>Sets the shim of OrderLines.get_UnitCost()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.AllInstances.UnitCostSetDouble">
+            <summary>Sets the shim of OrderLines.set_UnitCost(Double value)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderLines.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderLines.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.Constructor">
+            <summary>Sets the shim of OrderLines.OrderLines()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.IdGet">
+            <summary>Sets the shim of OrderLines.get_Id()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.IdSetInt32">
+            <summary>Sets the shim of OrderLines.set_Id(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.IsTaxableGet">
+            <summary>Sets the shim of OrderLines.get_IsTaxable()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.IsTaxableSetBoolean">
+            <summary>Sets the shim of OrderLines.set_IsTaxable(Boolean value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.OrderIdGet">
+            <summary>Sets the shim of OrderLines.get_OrderId()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.OrderIdSetInt32">
+            <summary>Sets the shim of OrderLines.set_OrderId(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.ProductNameGet">
+            <summary>Sets the shim of OrderLines.get_ProductName()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.ProductNameSetString">
+            <summary>Sets the shim of OrderLines.set_ProductName(String value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.QuantityGet">
+            <summary>Sets the shim of OrderLines.get_Quantity()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.QuantitySetInt32">
+            <summary>Sets the shim of OrderLines.set_Quantity(Int32 value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.UnitCostGet">
+            <summary>Sets the shim of OrderLines.get_UnitCost()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderLines.UnitCostSetDouble">
+            <summary>Sets the shim of OrderLines.set_UnitCost(Double value)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderRepository">
+            <summary>Shim type of OrdersWeb.Models.OrderRepository</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderRepository.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderRepository.#ctor(OrdersWeb.Models.OrderRepository)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderRepository.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.AllInstances.FindInt32">
+            <summary>Sets the shim of OrderRepository.Find(Int32 id)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.AllInstances.OrderLinesInt32">
+            <summary>Sets the shim of OrderRepository.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderRepository.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderRepository.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderRepository.Bind(OrdersWeb.Models.IOrderRepository)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.Constructor">
+            <summary>Sets the shim of OrderRepository.OrderRepository()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.FindInt32">
+            <summary>Sets the shim of OrderRepository.Find(Int32 id)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderRepository.OrderLinesInt32">
+            <summary>Sets the shim of OrderRepository.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel">
+            <summary>Shim type of OrdersWeb.Models.OrderSummaryViewModel</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.#ctor(OrdersWeb.Models.OrderSummaryViewModel)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.OrderGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_Order()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.OrderLinesGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_OrderLines()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.OrderLinesSetListOfOrderLines">
+            <summary>Sets the shim of OrderSummaryViewModel.set_OrderLines(List`1&lt;OrderLines&gt; value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.OrderSetOrder">
+            <summary>Sets the shim of OrderSummaryViewModel.set_Order(Order value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.TotalGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_Total()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.AllInstances.TotalSetDouble">
+            <summary>Sets the shim of OrderSummaryViewModel.set_Total(Double value)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.Constructor">
+            <summary>Sets the shim of OrderSummaryViewModel.OrderSummaryViewModel()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.OrderGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_Order()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.OrderLinesGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_OrderLines()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.OrderLinesSetListOfOrderLines">
+            <summary>Sets the shim of OrderSummaryViewModel.set_OrderLines(List`1&lt;OrderLines&gt; value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.OrderSetOrder">
+            <summary>Sets the shim of OrderSummaryViewModel.set_Order(Order value)</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.TotalGet">
+            <summary>Sets the shim of OrderSummaryViewModel.get_Total()</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.ShimOrderSummaryViewModel.TotalSetDouble">
+            <summary>Sets the shim of OrderSummaryViewModel.set_Total(Double value)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubIOrderRepository">
+            <summary>Stub type of OrdersWeb.Models.IOrderRepository</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubIOrderRepository.#ctor">
+            <summary>Initializes a new instance of type StubIOrderRepository</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubIOrderRepository.FindInt32">
+            <summary>Sets the stub of IOrderRepository.Find(Int32 id)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubIOrderRepository.OrderLinesInt32">
+            <summary>Sets the stub of IOrderRepository.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubIOrderRepository.OrdersWeb#Models#IOrderRepository#Find(System.Int32)">
+            <summary>Sets the stub of IOrderRepository.Find(Int32 id)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubIOrderRepository.OrdersWeb#Models#IOrderRepository#OrderLines(System.Int32)">
+            <summary>Sets the stub of IOrderRepository.OrderLines(Int32 id)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubOrder">
+            <summary>Stub type of OrdersWeb.Models.Order</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrder.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrder.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrder.InitializeStub">
+            <summary>Initializes a new instance of type StubOrder</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrder.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrder.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubOrderDbContext">
+            <summary>Stub type of OrdersWeb.Models.OrderDbContext</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderDbContext.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.Dispose(System.Boolean)">
+            <summary>Sets the stub of DbContext.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.DisposeBoolean">
+            <summary>Sets the stub of DbContext.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.Equals(System.Object)">
+            <summary>Sets the stub of DbContext.Equals(Object obj)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.EqualsObject">
+            <summary>Sets the stub of DbContext.Equals(Object obj)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.GetHashCode">
+            <summary>Sets the stub of DbContext.GetHashCode()</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.GetHashCode01">
+            <summary>Sets the stub of DbContext.GetHashCode()</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderDbContext</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderDbContext.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderDbContext.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>Sets the stub of DbContext.OnModelCreating(DbModelBuilder modelBuilder)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.OnModelCreatingDbModelBuilder">
+            <summary>Sets the stub of DbContext.OnModelCreating(DbModelBuilder modelBuilder)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.SaveChanges">
+            <summary>Sets the stub of DbContext.SaveChanges()</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.SaveChanges01">
+            <summary>Sets the stub of DbContext.SaveChanges()</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.ShouldValidateEntity(System.Data.Entity.Infrastructure.DbEntityEntry)">
+            <summary>Sets the stub of DbContext.ShouldValidateEntity(DbEntityEntry entityEntry)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.ShouldValidateEntityDbEntityEntry">
+            <summary>Sets the stub of DbContext.ShouldValidateEntity(DbEntityEntry entityEntry)</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.ToString">
+            <summary>Sets the stub of DbContext.ToString()</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.ToString01">
+            <summary>Sets the stub of DbContext.ToString()</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderDbContext.ValidateEntity(System.Data.Entity.Infrastructure.DbEntityEntry,System.Collections.Generic.IDictionary{System.Object,System.Object})">
+            <summary>Sets the stub of DbContext.ValidateEntity(DbEntityEntry entityEntry, IDictionary`2&lt;Object,Object&gt; items)</summary>
+        </member>
+        <member name="F:OrdersWeb.Models.Fakes.StubOrderDbContext.ValidateEntityDbEntityEntryIDictionaryOfObjectObject">
+            <summary>Sets the stub of DbContext.ValidateEntity(DbEntityEntry entityEntry, IDictionary`2&lt;Object,Object&gt; items)</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubOrderLines">
+            <summary>Stub type of OrdersWeb.Models.OrderLines</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderLines.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderLines.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderLines.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderLines</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderLines.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderLines.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubOrderRepository">
+            <summary>Stub type of OrdersWeb.Models.OrderRepository</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderRepository.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderRepository.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderRepository.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderRepository</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderRepository.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderRepository.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel">
+            <summary>Stub type of OrdersWeb.Models.OrderSummaryViewModel</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel.InitializeStub">
+            <summary>Initializes a new instance of type StubOrderSummaryViewModel</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:OrdersWeb.Models.Fakes.StubOrderSummaryViewModel.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,824 @@
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Compression.ZLibNative: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.BuildInfo: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.DllImport: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ResourceIDHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SecurityCriticalDataForSet`1: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.SecurityHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.SafeSecurityHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.WeakRefKey: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.GCNotificationToken: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.DoubleUtil: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.FriendAccessAllowedAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Hashing.WindowsBase.HashHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Invariant: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.MatrixTypes: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.MatrixUtil: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.RegistryKeys: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TokenizerHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.ContainerFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PackagingUtilities: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Permissions.InternalParameterlessPermissionBase: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ReaderWriterLockWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalListStoreState: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalListBase`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.SingleItemList`1: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ThreeItemList`1: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.SixItemList`1: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ArrayItemList`1: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalObjectList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalStructList`1: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalMapStoreState: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalMapBase: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.SingleObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ThreeObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.SixObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ArrayObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.SortedObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.HashObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalMap: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.LargeSortedObjectMap: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.InsertionSortMap: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.FrugalMapIterationCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ItemStructList`1: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.EventTrace: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.EventData: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.TraceProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ClassicTraceProvider: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Utility.ManifestTraceProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.ExternDll: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.HandleCollector: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.NativeMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.NativeMethodsSetLastError: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.UnsafeNativeMethods: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.ManifestEtw: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.ClassicEtw: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.SafeNativeMethods: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.ReflectionHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.UncommonAssembly: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AssemblyHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AvTrace: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AvTraceEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AvTraceBuilder: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.GetTraceSourceDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ClearTraceSourceDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AvTraceDetails: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.AvTraceFormat: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.BaseHashHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.APCustomTypeDescriptor: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.AttachedPropertyMethodSelector: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.AttachInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.DependencyObjectPropertyDescriptor: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.DependencyObjectProvider: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.DependencyPropertyAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.DependencyPropertyKind: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.DPCustomTypeDescriptor: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Expression: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.PropertyChangeTracker: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.PropertyDescriptorComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.PropertyKey: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ComponentModel.ReferenceEqualityComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ContentType: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.CriticalExceptions: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.DefaultValueFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.FreezableDefaultValueFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.GenericsInstances: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.InheritanceContextChangedEventManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.InheritanceContextHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.Win32Error: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.Facility: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.HRESULT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.PROPVARIANT: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.WIN32_FIND_DATAW: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.CHANGEFILTERSTRUCT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.ADLT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.DOGIF: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.FDAP: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.FOS: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.FDEOR: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.FDESVR: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.GPS: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.KF_FLAG: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.KDC: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.MSGFLT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.MSGFLTINFO: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SFGAO: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SHARD: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SHCONTF: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SHGDN: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SIATTRIBFLAGS: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SICHINT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SIGDN: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SLGP: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.SM: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.STPF: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.STR_GPS: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.TBPF: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.THB: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.THBF: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.WindowMessage: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Interop.Win32Constant: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CFStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CompoundFileReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CompoundFileStreamReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CompoundFileStorageReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.IDeflateTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CompoundFileDeflateTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.IDataTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.CompressionTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.ContainerUtilities: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.SafeNativeCompoundFileMethods: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IStorage: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IPropertySetStorage: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATPROPSETSTG: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IPropertyStorage: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATSTG: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.UnsafeNativeCompoundFileMethods: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.SafeNativeCompoundFileConstants: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATPROPSTG: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.RightsManagementEncryptedStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.RightsManagementEncryptionTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.StreamWithDictionary: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.UserUseLicenseDictionaryLoader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.VersionedStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.VersionedStreamOwner: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CaseInsensitiveOrdinalStringComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CertificatePart: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.DeflateEmulationTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompressEmulationStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompressStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CustomSignedXml: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.InterleavedZipPartStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.IgnoreFlushAndCloseStream: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.InternalRelationshipCollection: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.STATPROPSTG: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.STATPROPSETSTG: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PROPVARIANT: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.VARTYPE: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PropVariantUnion: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CY: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.BSTRBLOB: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.BLOB: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CArray: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PropSpecType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PROPSPECunion: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PROPSPEC: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.FormatId: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PropertyId: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PartBasedPackageProperties: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PartManifestEntry: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PieceInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PieceNameHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PieceNameComparer: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.StorageBasedPackageProperties: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.StreamingZipPartStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.XmlDigitalSignatureProcessor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.XmlSignatureManifest: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.XmlSignatureProperties: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.XTable: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.ITrackingMemoryStreamFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.TrackingMemoryStream: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.TrackingMemoryStreamFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.SparseMemoryStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.MemoryStreamBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.KnownBoxes.BooleanBoxes: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.NamedObject: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ObservableCollectionDefaultValueFactory`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Permissions.CompoundFileIOPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Permissions.RightsManagementPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Permissions.UserInitiatedRoutedEventPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Permissions.UserInitiatedRoutedEventPermissionAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.PlatformCulture: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.AttachmentService: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ShutDownEvents: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.ShutDownListener: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SystemCoreExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SystemDataExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SystemDrawingExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SystemXmlExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SystemXmlLinqExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TraceLevelStore: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Utilities: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Verify: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WeakEventTable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Utility.WeakReferenceKey`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Collections.ObjectModel.WeakReadOnlyCollection`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.CurrentChangedEventManager: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.CurrentChangingEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.CurrentChangingEventManager: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.DependencyPropertyDescriptor: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.ErrorsChangedEventManager: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.NewItemPlaceholderPosition: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyChangedEventManager: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyFilterOptions: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.PropertyFilterAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.ComponentModel.SortDescription: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Collections.Specialized.CollectionChangedEventManager: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Diagnostics.PresentationTraceLevel: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Diagnostics.PresentationTraceSources: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Diagnostics.TraceRefreshEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.DataSpaceManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.TransformInitializationEventArgs: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.TransformEnvironment: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.FormatVersion: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.StorageInfoCore: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.StorageInfo: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.StorageRoot: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.StreamInfoCore: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.StreamInfo: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.CompoundFile.VersionPair: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.EncryptedPackageEnvelope: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackagePartCollection: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.TargetMode: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageRelationship: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageRelationshipCollection: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackUriHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.RightsManagementInformation: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.ZipPackage: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.ZipPackagePart: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.CompressionOption: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.EncryptionOption: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageRelationshipSelector: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageRelationshipSelectorType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.VerifyResult: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageDigitalSignature: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.CertificateEmbeddingOption: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.InvalidSignatureEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.SignatureVerificationEventArgs: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.IO.Packaging.PackageDigitalSignatureManager: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.WebBrowserPermissionLevel: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.WebBrowserPermission: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.WebBrowserPermissionAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.MediaPermissionAudio: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.MediaPermissionVideo: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.MediaPermissionImage: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.MediaPermission: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.Permissions.MediaPermissionAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.AttachedPropertyBrowsableAttribute: method System.Boolean System.Windows.AttachedPropertyBrowsableAttribute.IsBrowsable(System.Windows.DependencyObject d, System.Windows.DependencyProperty dp) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(WindowsBase.4.0.0.0.Fakes) or subtype(AttachedPropertyBrowsableAttribute in assembly WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.AttachedPropertyBrowsableForTypeAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.AttachedPropertyBrowsableWhenAttributePresentAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.BaseCompatibilityPreferences: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.CoerceValueCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DeferredReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DeferredMutableDefaultReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.AlternativeExpressionStorageCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.UpdateResult: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.RequestFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyObjectType: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyProperty: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyPropertyKey: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyPropertyChangedEventArgs: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.OperationType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyPropertyChangedEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencyPropertyValueSerializer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependencySource: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.DependentList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Dependent: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.DesignerSerializationOptions: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.DesignerSerializationOptionsAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.EffectiveValueEntry: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.FullValueSource: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.BaseValueSourceInternal: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.ModifiedValue: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.EntryIndex: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.ExpressionMode: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.ISealable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.FreezeValueCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Int32Rect: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Int32RectConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Point: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.PointConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Rect: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.RectConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Size: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.SizeConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Vector: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.VectorConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Input.Key: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Input.KeyInterop: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.LocalValueEnumerator: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.LocalValueEntry: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Media.DisableDpiAwarenessAttribute: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Media.Matrix: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Media.MatrixConverter: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.PropertyChangedCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.GetReadOnlyValueCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.UncommonField`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.ValidateValueCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.WeakEventManager`2: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.DateTimeConverter2: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.DateTimeValueSerializerContext: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.IReceiveMarkupExtension: type is obsolete.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.TypeTypeConverter: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.TypeConverterHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.IsXmlNamespaceSupportedCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.HandleElementCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.HandleAttributeCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.XmlWrappingReader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.XmlCompatibilityReader: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.Primitives.MarkupObject: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.Primitives.MarkupProperty: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Markup.NameValidationHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.CopyOnWriteList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WeakReferenceList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WeakReferenceListEnumerator: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.HwndSubclass: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.HwndWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.HwndWrapperHook: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.ManagedWndProcTracker: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Win32.MessageOnlyHwndWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SecurityCriticalData`1: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.SecurityCriticalDataClass`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TextServicesLoader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.PriorityChain`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.PriorityItem`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.PriorityQueue`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.ExceptionWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Input.ModifierKeys: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Input.FocusNavigationDirection: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.PriorityRange: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherPriority: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.Dispatcher: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherPriorityAwaitable: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherPriorityAwaiter: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherSynchronizationContext: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherHookEventArgs: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherHookEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherHooks: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherProcessingDisabled: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperation: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperation`1: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperationCallback: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperationStatus: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperationTaskMapping: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperationTaskSource: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherOperationTaskSource`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherEventArgs: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherUnhandledExceptionEventArgs: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherUnhandledExceptionEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherUnhandledExceptionFilterEventArgs: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Threading.DispatcherUnhandledExceptionFilterEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Interop.MSG: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Interop.ThreadMessageEventHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Interop.ComponentDispatcher: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Windows.Interop.ComponentDispatcherThread: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.Crc32Calculator: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipArchive: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipFileInfo: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipFileInfoCollection: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.CompressionMethodEnum: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.DeflateOptionEnum: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOBlockManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.PreSaveNotificationScanControlInstruction: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.IZipIOBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ProgressiveCrcCalculatingStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOEndOfCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOCentralDirectoryFileHeader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOCentralDirectoryDigitalSignature: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOZip64EndOfCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOZip64EndOfCentralDirectoryLocatorBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOLocalFileBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOLocalFileHeader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOLocalFileDataDescriptor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIORawDataFileBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOFileItemStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOModeEnforcingStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOVersionNeededToExtract: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOExtraField: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOExtraFieldElement: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOExtraFieldPaddingElement: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOZip64ExtraFieldUsage: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.ZipIOExtraFieldZip64Element: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Zip.WriteTimeStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.SecureEnvironment: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.CryptoProvider: type has no family visible contructors.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.UserActivationMode: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.ContentRight: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.AuthenticationType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for System.Security.RightsManagement.RightsManagementFailureCode: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeRightsManagementEnvironmentHandle: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeRightsManagementHandle: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeRightsManagementQueryHandle: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeRightsManagementPubHandle: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeRightsManagementSessionHandle: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.ClientSession: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.CallbackDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.CallbackHandler: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.Errors: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.IssuanceLicense: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SafeNativeMethods: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SecurityProviderType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SpecType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.StatusMessage: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.EnumerateLicenseFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.ActivationFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.ServiceType: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.ServiceLocation: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.AcquireLicenseFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SignIssuanceLicenseFlags: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.DistributionPointInfo: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.LicenseAttributeEncoding: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.NativeConstants: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.ActivationServerInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.SystemTime: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.BoundLicenseParams: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.RightNameExpirationInfoPair: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Security.RightsManagement.RevocationPoint: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.SRID: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.WindowsBase.SR: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TraceDependencyProperty: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TraceFreezable: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.TraceNameScope: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PackageXmlEnum: type is a value type.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.IO.Packaging.PackageXmlStringTable: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{1967C15F-2885-4660-A89E-A671C6D9A7D6}: type is not supported because of internal limitations.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Threading.InternalRealCallDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Threading.FilterExceptionDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Threading.CatchExceptionDelegate: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate stub for MS.Internal.Threading.ExceptionFilterHelper: type is sealed.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Compression.ZLibNative: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.BuildInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.DllImport: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ResourceIDHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SecurityCriticalDataForSet`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.SecurityHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.SafeSecurityHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.WeakRefKey: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.GCNotificationToken: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.DoubleUtil: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.FriendAccessAllowedAttribute: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Hashing.WindowsBase.HashHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Invariant: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.MatrixTypes: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.MatrixUtil: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.RegistryKeys: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TokenizerHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.ContainerFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PackagingUtilities: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Permissions.InternalParameterlessPermissionBase: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ReaderWriterLockWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalListStoreState: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalListBase`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.SingleItemList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ThreeItemList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.SixItemList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ArrayItemList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalObjectList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalStructList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalMapStoreState: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalMapBase: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.SingleObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ThreeObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.SixObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ArrayObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.SortedObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.HashObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.LargeSortedObjectMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.InsertionSortMap: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.FrugalMapIterationCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ItemStructList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.EventTrace: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.EventData: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.TraceProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ClassicTraceProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Utility.ManifestTraceProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.ExternDll: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.HandleCollector: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.NativeMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.NativeMethodsSetLastError: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.UnsafeNativeMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.ManifestEtw: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.ClassicEtw: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.SafeNativeMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.ReflectionHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.UncommonAssembly: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AssemblyHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AvTrace: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AvTraceEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AvTraceBuilder: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.GetTraceSourceDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ClearTraceSourceDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AvTraceDetails: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.AvTraceFormat: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.BaseHashHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.APCustomTypeDescriptor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.AttachedPropertyMethodSelector: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.AttachInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.DependencyObjectPropertyDescriptor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.DependencyObjectProvider: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.DependencyPropertyAttribute: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.DependencyPropertyKind: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.DPCustomTypeDescriptor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.PropertyChangeTracker: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.PropertyDescriptorComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.PropertyKey: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ComponentModel.ReferenceEqualityComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ContentType: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.CriticalExceptions: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.DefaultValueFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.FreezableDefaultValueFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.GenericsInstances: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.WeakEventManager+Listener: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.WeakEventManager+ListenerList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.WeakEventManager+ListenerList`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.InheritanceContextChangedEventManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.InheritanceContextHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.Win32Error: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.Facility: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.HRESULT: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.PROPVARIANT: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.WIN32_FIND_DATAW: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.CHANGEFILTERSTRUCT: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.ADLT: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.DOGIF: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.FDAP: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.FOS: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.FDEOR: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.FDESVR: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.GPS: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.KF_FLAG: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.KDC: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.MSGFLT: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.MSGFLTINFO: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SFGAO: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SHARD: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SHCONTF: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SHGDN: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SIATTRIBFLAGS: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SICHINT: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SIGDN: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SLGP: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.SM: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.STPF: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.STR_GPS: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.TBPF: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.THB: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.THBF: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.WindowMessage: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Interop.Win32Constant: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CFStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CompoundFileReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CompoundFileStreamReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CompoundFileStorageReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.IDeflateTransform: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CompoundFileDeflateTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.IDataTransform: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.CompressionTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.ContainerUtilities: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.SafeNativeCompoundFileMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IStorage: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IPropertySetStorage: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IStream: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATPROPSETSTG: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IPropertyStorage: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATSTG: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.UnsafeNativeCompoundFileMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.SafeNativeCompoundFileConstants: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.IEnumSTATPROPSTG: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.RightsManagementEncryptedStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.RightsManagementEncryptionTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.StreamWithDictionary: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.UserUseLicenseDictionaryLoader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.VersionedStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.VersionedStreamOwner: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CaseInsensitiveOrdinalStringComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CertificatePart: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.DeflateEmulationTransform: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompressEmulationStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompressStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CustomSignedXml: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.InterleavedZipPartStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.IgnoreFlushAndCloseStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.InternalRelationshipCollection: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.STATPROPSTG: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.STATPROPSETSTG: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PROPVARIANT: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.VARTYPE: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PropVariantUnion: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CY: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.BSTRBLOB: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.BLOB: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CArray: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PropSpecType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PROPSPECunion: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PROPSPEC: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.FormatId: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PropertyId: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PartBasedPackageProperties: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PartManifestEntry: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PieceInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PieceNameHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PieceNameComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.StorageBasedPackageProperties: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.StreamingZipPartStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.XmlDigitalSignatureProcessor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.XmlSignatureManifest: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.XmlSignatureProperties: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.XTable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.ITrackingMemoryStreamFactory: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.TrackingMemoryStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.TrackingMemoryStreamFactory: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.SparseMemoryStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.MemoryStreamBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.KnownBoxes.BooleanBoxes: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.NamedObject: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ObservableCollectionDefaultValueFactory`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Permissions.CompoundFileIOPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Permissions.RightsManagementPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Permissions.UserInitiatedRoutedEventPermission: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Permissions.UserInitiatedRoutedEventPermissionAttribute: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.PlatformCulture: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.AttachmentService: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ShutDownEvents: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.ShutDownListener: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SystemCoreExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SystemDataExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SystemDrawingExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SystemXmlExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SystemXmlLinqExtensionMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TraceLevelStore: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Utilities: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Verify: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WeakEventTable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Utility.WeakReferenceKey`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Collections.ObjectModel.WeakReadOnlyCollection`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.CurrentChangingEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.ICollectionView: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.ICollectionViewFactory: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.ICollectionViewLiveShaping: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.NewItemPlaceholderPosition: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.IEditableCollectionView: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.IEditableCollectionViewAddNewItem: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.IItemProperties: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.ComponentModel.PropertyFilterOptions: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Diagnostics.PresentationTraceLevel: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Diagnostics.TraceRefreshEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.DataSpaceManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.TransformInitializationEventArgs: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.TransformEnvironment: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.FormatVersion: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.StorageInfoCore: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.StorageRoot: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.StreamInfoCore: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.CompoundFile.VersionPair: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.Package+PartOperation: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.TargetMode: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.PackUriHelper+ValidatedPartUri: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.CompressionOption: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.EncryptionOption: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.PackageRelationshipSelectorType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.VerifyResult: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.CertificateEmbeddingOption: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.IO.Packaging.InvalidSignatureEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.Permissions.WebBrowserPermissionLevel: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.Permissions.MediaPermissionAudio: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.Permissions.MediaPermissionVideo: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.Permissions.MediaPermissionImage: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.CoerceValueCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DeferredReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DeferredMutableDefaultReference: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.AlternativeExpressionStorageCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.UpdateResult: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.RequestFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DependencyPropertyChangedEventArgs+PrivateFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.OperationType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DependencyPropertyChangedEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DependencyPropertyValueSerializer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DependencySource: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.DependentList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Dependent: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.DesignerSerializationOptions: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.EffectiveValueEntry: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.FullValueSource: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.BaseValueSourceInternal: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.ModifiedValue: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.EntryIndex: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.ExpressionMode: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.ISealable: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.FreezeValueCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Input.Key: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.IWeakEventListener: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.PropertyChangedCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.PropertyMetadata+MetadataFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.GetReadOnlyValueCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.UncommonField`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.ValidateValueCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.DateTimeConverter2: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.DateTimeValueSerializerContext: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.IReceiveMarkupExtension: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.TypeTypeConverter: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.TypeConverterHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.IsXmlNamespaceSupportedCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.HandleElementCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.HandleAttributeCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.XmlWrappingReader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.XmlCompatibilityReader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Markup.NameValidationHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.CopyOnWriteList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WeakReferenceList: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WeakReferenceListEnumerator: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.HwndSubclass: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.HwndWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.HwndWrapperHook: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.ManagedWndProcTracker: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Win32.MessageOnlyHwndWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SecurityCriticalData`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.SecurityCriticalDataClass`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TextServicesLoader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.PriorityChain`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.PriorityItem`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.PriorityQueue`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.ExceptionWrapper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Input.ModifierKeys: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Input.FocusNavigationDirection: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.PriorityRange: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherPriority: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.Dispatcher+ShutdownCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherHookEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherOperationCallback: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherOperationStatus: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherOperationTaskMapping: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherOperationTaskSource: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherOperationTaskSource`1: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherUnhandledExceptionEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Threading.DispatcherUnhandledExceptionFilterEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Interop.ThreadMessageEventHandler: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Interop.ComponentDispatcherThread: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Interop.IKeyboardInputSink: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Windows.Interop.IKeyboardInputSite: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.Crc32Calculator: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipArchive: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipFileInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipFileInfoCollection: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.CompressionMethodEnum: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.DeflateOptionEnum: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOBlockManager: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.PreSaveNotificationScanControlInstruction: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.IZipIOBlock: type is an interface.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ProgressiveCrcCalculatingStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOEndOfCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOCentralDirectoryFileHeader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOCentralDirectoryDigitalSignature: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOZip64EndOfCentralDirectoryBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOZip64EndOfCentralDirectoryLocatorBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOLocalFileBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOLocalFileHeader: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOLocalFileDataDescriptor: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIORawDataFileBlock: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOFileItemStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOModeEnforcingStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOVersionNeededToExtract: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOExtraField: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOExtraFieldElement: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOExtraFieldPaddingElement: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOZip64ExtraFieldUsage: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.ZipIOExtraFieldZip64Element: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Zip.WriteTimeStream: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.RightsManagement.ContentUser+ContentUserComparer: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.RightsManagement.UserActivationMode: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.RightsManagement.ContentRight: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.RightsManagement.AuthenticationType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for System.Security.RightsManagement.RightsManagementFailureCode: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeRightsManagementEnvironmentHandle: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeRightsManagementHandle: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeRightsManagementQueryHandle: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeRightsManagementPubHandle: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeRightsManagementSessionHandle: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.ClientSession: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.CallbackDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.CallbackHandler: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.Errors: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.IssuanceLicense: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SafeNativeMethods: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SecurityProviderType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SpecType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.StatusMessage: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.EnumerateLicenseFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.ActivationFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.ServiceType: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.ServiceLocation: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.AcquireLicenseFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SignIssuanceLicenseFlags: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.DistributionPointInfo: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.LicenseAttributeEncoding: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.NativeConstants: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.ActivationServerInfo: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.SystemTime: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.BoundLicenseParams: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.RightNameExpirationInfoPair: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Security.RightsManagement.RevocationPoint: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.SRID: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.WindowsBase.SR: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TraceDependencyProperty: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TraceFreezable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.TraceNameScope: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PackageXmlEnum: type is an enum.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.IO.Packaging.PackageXmlStringTable: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{1967C15F-2885-4660-A89E-A671C6D9A7D6}: type is not supported because of internal limitations.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Threading.InternalRealCallDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Threading.FilterExceptionDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Threading.CatchExceptionDelegate: type is a delegate.
+D:\TestProjects\MSFakes\Clock\WpfClock.Tests\Fakes\WindowsBase.fakes : warning : Cannot generate shim for MS.Internal.Threading.ExceptionFilterHelper: type is not visible to exported or assembly(WindowsBase.4.0.0.0.Fakes).

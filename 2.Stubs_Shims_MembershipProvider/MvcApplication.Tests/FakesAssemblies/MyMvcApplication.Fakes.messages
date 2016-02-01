@@ -1,0 +1,4 @@
+D:\ThursdayPresentations\MSFakes\CodeSamples\2.Stubs_Shims_MembershipProvider\MvcApplication.Tests\Fakes\MyMvcApplication.fakes : warning : Cannot generate stub for <>f__AnonymousType0`3: type is sealed.
+D:\ThursdayPresentations\MSFakes\CodeSamples\2.Stubs_Shims_MembershipProvider\MvcApplication.Tests\Fakes\MyMvcApplication.fakes : warning : Cannot generate shim for <>f__AnonymousType0`3: type is not supported because of internal limitations.
+D:\ThursdayPresentations\MSFakes\CodeSamples\2.Stubs_Shims_MembershipProvider\MvcApplication.Tests\Fakes\MyMvcApplication.fakes : warning : Cannot generate shim for MyMvcApplication.Models.IAuthProvider: type is an interface.
+D:\ThursdayPresentations\MSFakes\CodeSamples\2.Stubs_Shims_MembershipProvider\MvcApplication.Tests\Fakes\MyMvcApplication.fakes : warning : Cannot generate shim for MyMvcApplication.Models.ApplicationUser+<GenerateUserIdentityAsync>d__0: type is not supported because of internal limitations.
